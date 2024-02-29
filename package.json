@@ -1,0 +1,17 @@
+{
+  "name": "@kctolli/createlogtxt",
+  "version": "1.0.0",
+  "description": "create a text file in the ./logs file of your directory ",
+  "main": "index.ts",
+  "keywords": [
+    "fs",
+    "logs",
+    "txt"
+  ],
+  "author": "kctolli",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "typescript": "^5.3.3"
+  }
+}
